@@ -1,6 +1,7 @@
 # I2C OLED Display
 
 > Support File Screen
+> Bug fix
 
 Enables 128x32 pixel OLED for Raspberry Pi (both 32 and 64bit).
 
